@@ -1,3 +1,6 @@
+This is my solution for workshop #2 of [Josh W Comeau's fun & excellent css course](https://css-for-js.dev/).
+
+
 # Character Creation Workshop
 
 In this workshop, you'll build a Sims-style character creation screen.
